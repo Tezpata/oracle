@@ -1,9 +1,9 @@
-displayName = 'xxxxxxxxx'
-compartmentId = 'xxxxxxxx'
-availabilityDomain = "xxxxxxxxx"
-imageId = "xxxxxxxxx"
-subnetId = 'xxxxxxxxxx'
-ssh_authorized_keys = "xxxxxxxxx"
+displayName = 'Mc-server'
+compartmentId = 'ocid1.tenancy.oc1..aaaaaaaaalt54nefzxhkemj2khsk2qsidmbxxdqnplwvwxlwoo5t6hpcgirq^\^'
+availabilityDomain = "Wsgw:US-SANJOSE-1-AD-1^\^",^\^"
+imageId = "ocid1.tenancy.oc1..aaaaaaaaalt54nefzxhkemj2khsk2qsidmbxxdqnplwvwxlwoo5t6hpcgirq^\^"
+subnetId = 'ocid1.subnet.oc1.us-sanjose-1.aaaaaaaa3extpf5b3frajmnxzoofneuowmmyqlb3neitlpn5huyyso2ap6ha'
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDyzoFE2io4gGjn1NKaGRwldedbbDlDvBnJmWPJ8P/PQciJMF2vZFV/mSlg/DelI0Ode5Lq1z9umngGhsROSMM6aCAiktt81TRUCSBWu2grGtQVCMf0jY/2XlcprUWyak/ieabJo81fsezMwIDn4kEmFqViTJZQ8ipEOH5Uj6ocRRSCWazjaZR5oThmv20DBo+BgusGmL38T3acC5hg9Huw9GlowBJKxqFLQHBWI6HYSNy+9xnOvDySho/x042O+M8tkUdbEW0lWVxNRtrCJ24MVj3AygDF/8Bs6cxB+8GKqgU6juGiwkK1VisfxBvx8uFvCF0s/JWfaRcTRxKyv2xf ssh-key-2022-10-09^\^"^},^\^"
 
 
 import oci
